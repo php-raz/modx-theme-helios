@@ -1,0 +1,25 @@
+UpgradeMODX Log -- Понедельник февраля 20, 2019 02:17 
+Downloading Files
+Version: modx-2.7.1-pl.zip
+URL: https://modx.s3.amazonaws.com/releases/2.7.1/modx-2.7.1-pl.zip
+Downloaded  -> /home/muhammad-xubuntu/localhost/modx-test-2/ugmtemp/modx-2.7.1-pl.zip
+Unzipping files
+    Source: /home/muhammad-xubuntu/localhost/modx-test-2/ugmtemp/modx-2.7.1-pl.zip
+    Destination: /home/muhammad-xubuntu/localhost/modx-test-2/ugmtemp/unzipped
+    Zip File Name modx-2.7.1-pl.zip
+    objects to extract 5428
+    Destination: /home/muhammad-xubuntu/localhost/modx-test-2/ugmtemp/unzipped
+    Source: /home/muhammad-xubuntu/localhost/modx-test-2/ugmtemp/modx-2.7.1-pl.zip
+Unzipped modx.zip -> /home/muhammad-xubuntu/localhost/modx-test-2/ugmtemp/unzipped
+Copying Files
+    Copied setup to /home/muhammad-xubuntu/localhost/modx-test-2/setup
+    Copied core to /home/muhammad-xubuntu/localhost/modx-test-2/core
+    Copied manager to /home/muhammad-xubuntu/localhost/modx-test-2/manager
+    Copied connectors to /home/muhammad-xubuntu/localhost/modx-test-2/connectors
+
+    Copy Time: 2,7185 s -- Objects copied 5428
+Preparing Setup
+Setup prepared
+Cleaning Up
+Cleanup Completed (temporary files removed)
+Launching Setup
